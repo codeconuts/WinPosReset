@@ -1,0 +1,1 @@
+Remove-Item "Registry::HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\*WhatsAppDesktop*\ApplicationFrame" -Recurse

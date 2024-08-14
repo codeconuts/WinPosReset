@@ -1,2 +1,2 @@
 # WinPosReset
-A collection of scripts for resetting window sizes and positions for different applications.
+A collection of scripts to reset window sizes and positions for different applications.

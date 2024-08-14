@@ -1,1 +1,0 @@
-powershell -Command "(gc "$ENV:AppData\WhatsApp\settings.json") -replace '`"x`":[0-9]+,`"y`":[0-9]+,`"width`":[0-9]+,`"height`":[0-9]+', '`"x`":256,`"y`":85,`"width`":1024,`"height`":653' | Out-File "$ENV:AppData\WhatsApp\settings.json""
